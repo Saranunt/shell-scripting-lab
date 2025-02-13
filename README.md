@@ -1,2 +1,2 @@
-# hell-scripting-lab
+# shell-scripting-lab
 MLops
